@@ -5,7 +5,7 @@ export interface NetworkStateCallback {
   onStateChange: (state: NetworkState) => void;
 }
 
-enum NetworkState {
+export enum NetworkState {
   AVAILABLE = 'AVAILABLE',
   LOST = 'LOST',
   LOSING = 'LOSING',
