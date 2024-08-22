@@ -1,6 +1,6 @@
 {
   "name": "react-native-network-listener",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "sample packge to listne to n/w state",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
